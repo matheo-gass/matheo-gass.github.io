@@ -1,0 +1,6 @@
+.page_structure {margin-top:10px;margin-left:2px;display:flex;margin-bottom:32px;width:calc(100% - 15px);}
+body{color:#fff;font-family:Verdana;z-index:1;background-image:url("files/dark-bg.png");background-color:#454545;image-rendering:pixelated;background-attachment:fixed;display:flex;flex-direction:column;margin:0px;min-height:100vh;}
+.element{border:#884343 2px solid;display:flex;width:480px;margin-top:256px;flex-direction:column;height:max-content;margin-bottom:10px;}
+.element_title{background-color:#900000;padding:5px;color:#ffffff;font-size:110%;font-weight:bold;line-break:auto;}
+.element_infos{background-color:#3f1d1d;padding:5px;color:#ffffff;font-size:70%;line-break:auto;}
+.element_content{padding:5px;background-color:#532727;color:#ffffff;line-break:auto;font-size:85%;}
